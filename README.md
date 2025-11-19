@@ -32,3 +32,7 @@ Python: 3.10
 
 源码地址
 https://github.com/Dao-AILab/causal-conv1d
+
+编译的文件下载可以通过网盘分享的文件：causal_conv1d预编译版本
+链接: https://pan.baidu.com/s/1RpgFdemIWEG_Q-8bqtKyLg 提取码: c6vs
+注意所有的版权和解释归发行方所有，涉及到侵权可以联系邮箱3513641979@qq.com，回复慢致歉。
